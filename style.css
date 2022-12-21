@@ -4,13 +4,10 @@
 }
 
 body {
-    background-color: darkgreen;
+    background-color: white;
 }
 
-h1 {
-    background-color: blue;
-}
-
-p {
-    background-color: red;
+.CV {
+    text-align: center;
+    
 }
